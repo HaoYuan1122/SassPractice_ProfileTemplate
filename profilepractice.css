@@ -1,0 +1,13 @@
+*{
+    padding:0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.content_nav a{
+    font-weight: 700;
+}
+.header_media-icons i{
+    color:green;
+    background-color:white;
+    border-radius: 50%;
+}
